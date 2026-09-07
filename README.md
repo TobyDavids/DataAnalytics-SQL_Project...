@@ -1,4 +1,4 @@
-# DataAnalytics-Assessment
+# DataAnalytics-Task
 
 ## 📌 Question 1: High-Value Customers with Multiple Products
 **Approach**:  
